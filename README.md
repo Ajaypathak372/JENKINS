@@ -31,3 +31,6 @@ In this i use DOCKER to create environment by the following command
 docker -itd -p 8082:80 -v /folder:/usr/local/apache2/htdocs --name webos httpd
 
 Note - use different ports for test and production webservers.
+ 
+To make this project you need some knowledge in jenkins,docker and linux .
+ 
